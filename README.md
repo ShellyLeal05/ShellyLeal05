@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <h2 align="left">🎶 Hello! I'm Shelly Leal 🎀, How you doing? </h2>
+  <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
+  <h3 align="left">⚜️ Love Music 🎻🎸🎙️</h3>
+  <h3 align="left">⚜️ Love Sports 🛼🤸🏻‍♂️ </h3>
+  <br>
+</div>
