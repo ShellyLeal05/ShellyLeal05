@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
+  <img align="right" height "180em" src="https://user-images.githubusercontent.com/94469543/232856829-f4a7f32d-7c42-4776-96db-0041eedcf0ab.jpg" width="200"/>
   <h2 align="left">🎶 Hello! I'm Shelly Leal 🎀, How you doing? </h2>
   <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
   <h3 align="left">⚜️ Love Music 🎻🎸🎙️</h3>
   <h3 align="left">⚜️ Love Sports 🛼🤸🏻‍♂️ </h3>
+  <h3 align="left">⚜️ Love Dance 🎶💜 </h3>
   <br>
 </div>
