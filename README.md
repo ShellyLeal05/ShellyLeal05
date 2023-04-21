@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script=&size=40&duration=4000&pause=400&color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Shelly;How+you+doing?+😊;I'm+21+years+old+🧚‍♀️;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🛼+🤸;I+Love+Dance+🎶+💜;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script=&size=50&duration=4000&pause=400&color=EE82EE&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Shelly;How+you+doing?+😊;I'm+21+years+old+🧚‍♀️;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🛼+🤸;I+Love+Dance+🎶+💜;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
 <h2 align="left">🎶 I'm Ms. Shelly Leal 🎀</h2>
