@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script=&size=50&duration=4000&pause=400&color=EE82EE&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Shelly;How+you+doing?+😊;I'm+21+years+old+🧚‍♀️;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🛼+🤸;I+Love+Dance+🎶+💜;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
-<h2 align="left">🎶 I'm Ms. Shelly Leal 🎀</h2>
+<h2 align="left">🎶 I'm Miss. Shelly Leal 🎀</h2>
     <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
   <br>
 </div>
