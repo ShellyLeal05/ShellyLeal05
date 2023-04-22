@@ -7,7 +7,8 @@
     <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
   <br>
 </div>
- 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShellyLeal05&bg_color=0d1117&color=EE82EE&line=800080&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShellyLeal05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -18,8 +19,6 @@
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShellyLeal05&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
 </div>
 <div>
-    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShellyLeal05&bg_color=0d1117&color=EE82EE&line=800080&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://www.instagram.com/_shelly.leal_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
