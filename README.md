@@ -9,7 +9,7 @@
 </div>
 
 
- ![Snake animation](https://github.com/ShellyLeal05/ShellyLeal05/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ShellyLeal05/blob/output/github-contribution-grid-snake.svg)
  
  
 <p align="center">
