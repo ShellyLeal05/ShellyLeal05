@@ -7,9 +7,6 @@
     <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
   <br>
 </div>
-
-
- ![Snake animation](https://github.com/ShellyLeal05/blob/output/github-contribution-grid-snake.svg)
  
  
 <p align="center">
