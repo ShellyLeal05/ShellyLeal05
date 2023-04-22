@@ -8,7 +8,9 @@
   <br>
 </div>
 
+
  ![Snake animation](https://github.com/ShellyLeal05/ShellyLeal05/blob/output/github-contribution-grid-snake.svg)
+ 
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShellyLeal05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
