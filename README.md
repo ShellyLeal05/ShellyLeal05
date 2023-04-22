@@ -31,6 +31,8 @@
 
 
 ### Studying in this moment:
+    
+<div>
 
 
 <div align="center">
