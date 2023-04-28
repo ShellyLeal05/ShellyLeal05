@@ -26,20 +26,15 @@
 <a href="https://www.linkedin.com/in/shellyleal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   <img align="right" height "180em" src="https://user-images.githubusercontent.com/94469543/233402422-01e28b4a-a5ca-4b95-95f6-9937b36d5038.png" width="220"/>
- 
-### Studying in this moment:
+  
+### 📚📍 Studying in this moment:
 <div align="center" style="display: inline_block"><br>
-  <img align="left" alt="SIG-Java" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="left" alt="SIG-C" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="left" alt="SIG-HTML" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="left" alt="SIG-Python" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="SIG-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="left" alt="SIG-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="left" alt="SIG-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="left" alt="SIG-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ShellyLeal05}/count.svg" /></p> 
-<br>
-</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
