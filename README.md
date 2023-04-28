@@ -27,10 +27,6 @@
  </div>
   <img align="right" height "180em" src="https://user-images.githubusercontent.com/94469543/233402422-01e28b4a-a5ca-4b95-95f6-9937b36d5038.png" width="220"/>
  
- ### Main skills:
-
-
-
 ### Studying in this moment:
 <div align="center" style="display: inline_block"><br>
   <img align="left" alt="SIG-Java" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -38,12 +34,9 @@
   <img align="left" alt="SIG-HTML" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="left" alt="SIG-Python" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-    
-  
-
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ShellyLeal05}/count.svg" /></p> 
 <br>
 </div>
