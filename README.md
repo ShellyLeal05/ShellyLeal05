@@ -8,8 +8,10 @@
   <br>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShellyLeal05&bg_color=0d1117&color=EE82EE&line=800080&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+<p align="center">
+  <img src="https://github.com/ShellyLeal05/ShellyLeal05/blob/output/github-contribution-grid-snake.svg">
+</p
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShellyLeal05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
