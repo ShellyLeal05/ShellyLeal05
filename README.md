@@ -4,18 +4,12 @@
 
 
 <h2 align="left">🎶 I'm Ms. Shelly Leal 🎀</h2>
-    <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
-  <br>
-</div>
-
-<p align="center">
-  <img src="https://github.com/ShellyLeal05/ShellyLeal05/blob/output/github-contribution-grid-snake.svg">
-</p
-
+<h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShellyLeal05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<div>
+
 <div align="center">  
   <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=ShellyLeal05&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Shelly Leal github stats" /> 
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShellyLeal05&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
