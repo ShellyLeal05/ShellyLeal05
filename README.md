@@ -6,6 +6,7 @@
 <h2 align="left">🎶 I'm Ms. Shelly Leal 🎀</h2>
 <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShellyLeal05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -15,6 +16,7 @@
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShellyLeal05&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
 </div>
 <div>
+
 
 <div align="center"> 
 <a href="https://www.instagram.com/_shelly.leal_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
