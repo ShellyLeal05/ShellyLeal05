@@ -7,6 +7,9 @@
 <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShellyLeal05&bg_color=0d1117&color=#800080&line=9400D3&point=EE82EE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShellyLeal05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
