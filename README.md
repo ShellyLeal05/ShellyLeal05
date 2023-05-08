@@ -6,6 +6,11 @@
 <h2 align="left">🎶 I'm Ms. Shelly Leal 🎀</h2>
 <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
+<p align="center">
+  <img src="https://github.com/ShellyLeal05/ShellyLeal05/blob/output/github-contribution-grid-snake.svg">
+</p
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShellyLeal05&bg_color=0d1117&color=#9400D3&line=9400D3&point=9932CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -38,8 +43,6 @@
 <p align="center">
   <img src="https://github.com/ShellyLeal05/ShellyLeal05/blob/output/github-contribution-grid-snake.svg">
 </p
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
