@@ -6,11 +6,17 @@
 <h2 align="left">🎶 I'm Ms. Shelly Leal 🎀</h2>
 <h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
+<div>
 <p align="center">
   <img src="https://github.com/ShellyLeal05/ShellyLeal05/blob/output/github-contribution-grid-snake.svg">
 </p
-
-
+<div>
+  
+<div align="center">  
+  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=ShellyLeal05&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Shelly Leal github stats" /> 
+  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShellyLeal05&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
+</div>
+<div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShellyLeal05&bg_color=0d1117&color=#9400D3&line=9400D3&point=9932CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -18,13 +24,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShellyLeal05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=ShellyLeal05&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Shelly Leal github stats" /> 
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShellyLeal05&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
-</div>
-<div>
-
 
 <div align="center"> 
 <a href="https://www.instagram.com/_shelly.leal_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -40,7 +39,6 @@
   <img align="left" alt="SIG-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="left" alt="SIG-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShellyLeal05&bg_color=0d1117&color=#9400D3&line=9400D3&point=9932CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
