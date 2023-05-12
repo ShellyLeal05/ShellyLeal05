@@ -21,16 +21,17 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShellyLeal05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center"> 
+  
+### 📲 *Connect with me*
+<div align="left"> 
 <a href="https://www.instagram.com/_shelly.leal_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:cmp.1a.contatoshellyleal05@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/shellyleal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-  <img align="right" height "180em" src="https://user-images.githubusercontent.com/94469543/233402422-01e28b4a-a5ca-4b95-95f6-9937b36d5038.png" width="220"/>
+<img align="right" height "180em" src="https://user-images.githubusercontent.com/94469543/233402422-01e28b4a-a5ca-4b95-95f6-9937b36d5038.png" width="220"/> 
   
-### 📚📍 Studying in this moment:
-<div align="center" style="display: inline_block"><br>
+### 📚📍 *Studying in this moment:*
+<div align="left" style="display: inline_block"><br>
   <img align="left" alt="SIG-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="left" alt="SIG-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="SIG-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
