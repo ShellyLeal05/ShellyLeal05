@@ -4,7 +4,7 @@
 
 
 <h2 align="left">🎶 I'm Ms. Shelly Leal 🎀</h2>
-<h3 align="left">⚜️ Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
+<h3 align="left">⚜️ Computer Science Student 👩🏻‍💻 at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
 <div>
 <p align="center">
