@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script=&size=50&duration=5000&pause=400&color=EE82EE&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Shelly;How+you+doing?+😊;I'm+21+years+old+🧚‍♀️;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🛼+🤸;I+Love+Dance+🎶+💜;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script=&size=50&duration=5000&pause=400&color=EE82EE&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Shelly;How+you+doing?+😊;I'm+22+years+old+🧚‍♀️;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🛼+🤸;I+Love+Dance+🎶+💜;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
-<h2 align="left">🎶 I'm Ms. Shelly Leal 🎀</h2>
+<h2 align="left">🎶 I'm Shelly Leal 🎀</h2>
 <h3 align="left">⚜️ Computer Science Student 👩🏻‍💻 at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
 <div>
@@ -28,7 +28,7 @@
 <a href = "mailto:cmp.1a.contatoshellyleal05@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/shellyleal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-<img align="right" height "180em" src="https://user-images.githubusercontent.com/94469543/233402422-01e28b4a-a5ca-4b95-95f6-9937b36d5038.png" width="220"/> 
+
   
 ### 📚📍 *Studying in this moment:*
 <div align="left" style="display: inline_block"><br>
